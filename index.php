@@ -3,7 +3,7 @@
 <body>
 <form action="show.php"> 
 
-<select name="prefix">
+    what is your name: <select name="prefix">
         <option value="">--เลือก--</option>
         <option value="ดช.">--ดช.--</option>
         <option value="ดญ.">--ดญ.--</option>
@@ -11,12 +11,7 @@
         <option value="นาง">--นาง--</option>
         <option value="นางสาว">--นางสาว--</option> 
             
-    </select>
-    <br>
-    
-    
-
-    what is your name:   <input type="text"name="name"><br>
+    </select>  <input type="text"name="name"><br>
     what is your age:    <input type="text"name="age"><br>
     what is your sex:    <select name="sex">
         <option value="">-เลือก-</option>
@@ -33,5 +28,3 @@
 
 </body>
 </html>
-
-    
