@@ -14,9 +14,9 @@
     </select>  <input type="text"name="name"><br>
     what is your age:    <input type="text"name="age"><br>
     what is your sex:    <select name="sex">
-        <option value="">-เลือก-</option>
-        <option value="ชาย">-ชาย-</option>
-        <option value="หญิง">-หญิง-</option>
+        <option value="">--เลือก--</option>
+        <option value="ชาย">--ชาย--</option>
+        <option value="หญิง">--หญิง--</option>
             
     </select>
     <br>
