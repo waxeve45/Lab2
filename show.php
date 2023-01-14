@@ -11,8 +11,8 @@
     
     echo "Name:".$prefix.$name."<br>";
     echo "Age:".$age."<br>";
-    echo "sex:".$sex."<br>";
-    echo "status:".$status."<br>";
+    echo "Sex:".$sex."<br>";
+    echo "Status:".$status."<br>";
 
 ?>
 
